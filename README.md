@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KailonFreire
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML/CSS and js to web development
+- 🌱 I’m currently learning MERN(MongoDB, Express, React.js, Node.js) stack to web development
 - 💞️ I’m looking to collaborate on anyway I can.
 
 
